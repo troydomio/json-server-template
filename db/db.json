@@ -6,7 +6,8 @@
       "location":"Salt Flat, Texas",
       "description":"In the northwestern corner of the state, approximately 100 miles east of El Paso, Guadalupe Mountains National Park is home to the four highest peaks in Texas. It's also known for an abundance of wildlife, including golden eagles. The landscape itself is stunning, especially around the towering El Capitan, as well as the Guadalupe Peak, the highest elevation in Texas. It's also tremendously popular with hikers thanks to its more than 80 miles of trails through spectacular woodland canyons and lush springs. Be sure to stop in at the visitor center in Pine Springs for information on the park, including details of hiking and biking trails.",
       "image": "https://www.planetware.com/photos-large/USTX/us-texas-guadalupe-mountains-national-park.jpg",
-      "activities": "['park', 'hiking','family']"
+      "activity1": "park",
+      "activity2": "hiking"
       
     },
     {
@@ -15,7 +16,8 @@
       "location":"Dallas, Texas",
       "description":"It was from the sixth floor of the Texas School Book Depository in Dallas that the fatal shot that took President John F. Kennedy's life was fired. Now home to The Sixth Floor Museum, this tall red-brick building offers a detailed account of the assassination, as well as Kennedy's legacy. Highlights include accounts of his presidential campaign and term as president, all supported by historic footage, photos, and artifacts. Also worth a visit while exploring downtown Dallas is the nearby John F. Kennedy Memorial, a huge monument dedicated to President Kennedy unveiled in 1970.",
       "image": "https://www.planetware.com/photos-large/USTX/us-texas-sixth-floor-museum.jpg",
-      "activities": "['museum','family']"
+      "activity1": "museum",
+      "activity2": "family"
     },
     {
       "id": 3,
@@ -23,7 +25,8 @@
       "location":"Austin,Texas",
       "description":"The Texas State Capitol, built in 1888, is considered one of the finest state legislatures in the US. In Austin's downtown core and now a National Historic Landmark, it certainly impresses with its dimensions, standing 308 feet tall. Highlights of its 22-acre park include monuments to the defenders of the Alamo and to veterans of the Vietnam War. Guided tours of the building's interior are available and start from the visitor center with its many displays. At dusk, head across to the Ann W. Richards Congress Avenue Bridge for a chance to witness the spectacle of a million or so Mexican free-tailed bats coming and going from their perches under the bridge.",
       "image": "https://www.planetware.com/photos-large/USTX/us-texas-capitol-austin.jpg",
-      "activities": "['tour','family','landmark']"
+      "activity1": "landmark",
+      "activity2": "family"
       
     },
     {
@@ -32,7 +35,8 @@
       "location":"Corpus Christi, Texas",
       "description":"The world's longest undeveloped barrier island, Padre Island is just a short drive south of Corpus Christi and stretches 70 miles from end-to-end. One of the most important conservation areas in Texas, Padre Island consists of more than 130,000 acres of beach, dunes, and grassland habitats, and is home to rare sea turtles and countless migratory birds, making it a birder's paradise. In fact, 350 different species visit this stopover on the Central Flyway migratory route. The Malaquite Visitor Center is the best place to begin your visit of this beautiful coastal region of the Gulf of Mexico. It provides plenty of information, as well as assistance for those with mobility issues, including specially adapted beach wheelchairs.",
       "image": "https://s.hdnux.com/photos/73/74/20/15713292/8/1200x0.jpg",
-      "activities": "['beach','family']"
+      "activity1": "beach",
+      "activity2": "family"
     },
     {
       "id": 5,
@@ -40,7 +44,8 @@
       "location": "Chihuahuan Desert, Texas",
       "description":"In the Chihuahuan Desert of West Texas, on a huge bend in the Rio Grande River, lies some of the most dramatic and uniquely beautiful scenery in the state. Mountains, canyons, and the river flowing along the border, separating the United States from Mexico, offer a diverse range of recreational and sightseeing opportunities for visitors to Big Bend National Park. While most people simply enjoy touring along the roads, the park offers a full range of things to do. Outdoor enthusiasts will enjoy the extensive network of hiking trails and the beautiful campgrounds. Paddling along the Rio Grande or enjoying a picnic and wading into the water are other popular activities on warm days. With more than 400 species of birds, birdwatching is another prominent pastime in the park, but even if you are not looking for them, you are likely to see roadrunners darting across the roads or trails.",
       "image": "https://www.planetware.com/wpimages/2019/04/texas-attractions-big-bend-national-park-santa-elena-canyon-waders.jpg",
-      "activities": "['park', 'hiking']"
+      "activity1": "park",
+      "activity2": "hiking"
     },
     {
       "id": 6,
@@ -48,7 +53,8 @@
       "location": "Houston, Texas",
       "description": "Just 30 minutes' drive from the heart of Houston, Space Center Houston is one of the most popular tourist attractions in Texas. This is a wonderful place to learn about space exploration, upcoming missions, NASA's latest projects, and possibly even meet an astronaut. Space Center Houston is also home to Johnson Space Center and Mission Control, which can be visited on a tour. Plan to spend at least a half-day exploring the entire complex, which includes a space shuttle replica mounted on a shuttle carrier. Visitors can walk inside the shuttle and the carrier. You can also walk inside a replica of America's first space station, Skylab. Other highlights include seeing rockets and touching a rock from the moon and Mars. The center provides a fascinating insight into the operations of the world's largest space program, with countless exhibits, as well as films, models, astronaut-related artifacts, and displays on the experiments and developments at NASA.",
       "image": "https://www.planetware.com/wpimages/2019/03/texas-things-to-do-space-center-houston-astronauts-moon.jpg",
-      "activities": "['tour', 'family']"
+      "activity1": "tour",
+      "activity2": "family"
       
     },
     {
@@ -57,7 +63,8 @@
       "location":"San Antonio, Texas",
       "description":"The Alamo is one of the most important historic sites in America. Part of a mission station established in 1718, it was built by Franciscans in 1744 and by 1836, had been converted into a fort. It became famous during the Texas Revolution, when a small force, including Davie Crockett and James Bowie, barricaded themselves in against an overwhelmingly superior Mexican army some 3,000 strong. While the defeat saw all 187 defenders killed, the cry of 'Remember the Alamo!' rallied the state to eventually overcome the Mexicans. Today, you can visit this landmark to see its restored buildings and the cenotaph commemorating the fallen Texans. Inside is a museum with changing displays, featuring weapons and artifacts related to the events and the history of the mission. If you have time, it's worth visiting some of the other missions in the area, which are all part of the San Antonio Missions National Historic Park, and connected by the Mission Trail.",
       "image": "https://www.planetware.com/wpimages/2019/04/texas-san-antonio-mission-trail-alamo.jpg",
-      "activities": "['landmark', 'family']"
+      "activity1": "landmark",
+      "activity2": "family"
       
     },
     {
@@ -66,7 +73,8 @@
       "location":"San Antonio, Texas",
       "description": "Stretching for several miles along the San Antonio River in the heart of the city, the River Walk is lined with restaurants and lovely outdoor patios, where you can sit and dine alongside the river. Built below street level, this pedestrian walkway hugs the river as it winds and weaves through the city, and is as popular among locals as it is for tourists, day and night. Although strolling along the river is the most popular thing to do here, another great way to enjoy the ambience of the area is on a leisurely cruise on a river boat. These run all the time and range from standard sightseeing trips to dinner cruises. ",
       "image": "https://www.planetware.com/photos-large/USTX/us-texas-san-antonio-river-walk.jpg",
-      "activities": "['family', 'restauant']"
+      "activity1": "restauant",
+      "activity2": "family"
       
     },
    { "id": 9,
@@ -74,7 +82,8 @@
       "location":"Houston, Texas",
       "description": "More than 26 million visitors each year seek the dynamic & fine shopping environment uniquely offered by The Galleria, Texas’ largest shopping center and fourth largest domain nationally. International guests and Houstonians blend seamlessly in the center while on shopping excursions or entertaining guests at one of the signature eateries. Spanning 2.4 million square feet of space, housing 400 fine stores and restaurants, two high-rise hotels, and three office towers, The Galleria is Houston’s most popular retail and tourist destination, meeting every style and taste.",
       "image": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_1080,q_50,w_1920/v1/clients/houston/21199737_10159356218920217_413159854170972534_o_e1daadd7-bd6d-4630-bf4b-71cc5f0662d3.jpg",
-      "activities": "['family', 'restauant', 'shopping center', 'mall']"
+      "activity1": "shopping center",
+      "activity2": "family"
    },
    {
     "id":10, 
@@ -82,7 +91,8 @@
     "location":"Houston, Texas",
     "description": "Find great savings on merchandise from your favorite designer and name-brands direct from the manufacturer at stores like: Old Navy, Tommy Hilfiger, Polo Ralph Lauren, Nike, Banana Republic, Under Armour, Chico's, J.Crew, Michael Kors, Coach, Reebok and many more. Before you travel, check out the Tanger Outlet website to find the latest Coupons & Sales Offers for Tanger Outlets in Houston. Or, when you arrive at the outlets, make your first stop Shopper Services to learn about the benefits of joining TangerClub (Tanger Club information is also available online). In Shopper Services you can purchase a coupon book full of great savings or if you are already a TangerClub member pick up a coupon book for free! Think Outlets, Think Tanger.",
     "image": "https://media-cdn.tripadvisor.com/media/photo-p/03/8d/55/b5/tanger-outlets-galveston.jpg",
-    "activities": "['family', 'restauant', 'shopping center', 'mall']"
+    "activity1": "shopping center",
+      "activity2": "family"
    },
    {
     "id":11, 
@@ -90,7 +100,8 @@
     "location":"San Antonio, Texas",
     "description": "The Historic Market Square is a multi-business with a majority of the buildings managed by The City of San Antonio. Centro De Artes - Centro de Artes presents a full season of solo and group exhibitions and programming annually through an open call managed by the City of San Antonio, Department of Arts and Culture. El Mercado and Farmer's Market Building - The shops of The Historic Market Square, together there is a total of over 100 shops that makes it one of the largest Mexican markets north of the border Cano Fruiteria, El Merkadito, Plaza Taxco, La Margarita, Viva Villa, and Mi Tierra - These buildings and private businesses are independently owned.",
     "image": "https://media-cdn.tripadvisor.com/media/photo-w/01/c3/35/3f/the-mexican-market-before.jpg",
-    "activities": "['family', 'restauant', 'shopping center', 'mall']"
+    "activity1": "shopping center",
+    "activity2": "family"
    },
    {
     "id":12, 
@@ -98,7 +109,8 @@
     "location":"Austin, Texas",
     "description": "Situated in a beautiful park-like setting, The Domain features 100 upscale and mainstream retail stores and restaurants, almost half of which are exclusive within the market. A sampling of retailers includes high-end boutiques such as David Yurman, Louis Vuitton, AllSaints, Tiffany & Co. and Austin's only Neiman Marcus, as well as more traditional retailers like American Eagle Outfitters, Banana Republic, Express and more. Restaurants include favorites like True Food Kitchen, Kona Grill, Grand Lux Cafe, Maggiano's Little Italy, North Italia and many more. The multi-phased Domain development is anchored by Neiman Marcus, Macy's, Dillard's and Dick's Sporting Goods and also offers more than 800 residential units and ample Class A office space, in addition to four on site hotels - Westin Austin at The Domain, Lone Star Court by Valencia Group, The Archer Hotel and Aloft Austin. With the center's ideal location and exceptional amenities, amazing restaurant selection, convenient parking",
     "image": "https://media-cdn.tripadvisor.com/media/photo-o/04/86/21/27/the-domain.jpg",
-    "activities": "['family', 'restauant', 'shopping center', 'mall']"
+    "activity1": "shopping center",
+      "activity2": "family"
    },
    {
     "id":13, 
@@ -106,7 +118,8 @@
     "location":"Dallas, Texas",
     "description": "NorthPark Center is the preeminent shopping center in the Southwest and one of the finest shopping experiences in the world with more than 200 stores and restaurants, including more than 60 market exclusives. Anchored by Neiman Marcus, Nordstrom, Macy’s, and Dillard’s, NorthPark offers an unparalleled collection of luxury boutiques set amid internationally acclaimed 20th and 21st century art, award-winning architecture, and extraordinary landscaping—as well as a 1.4-acre garden, CenterPark, and a state-of-the-art movie theatre, AMC NorthPark 15. NorthPark consistently ranks as one of the top five performing shopping centers in the United States and is North Texas’ number one visitor destination. NorthPark is conveniently located 7 miles from downtown Dallas and 35 miles from Fort Worth.",
     "image": "https://media-cdn.tripadvisor.com/media/photo-w/19/ef/bf/0f/ad-astra-a-major-large.jpg",
-    "activities": "['family', 'restauant', 'shopping center', 'mall']"
+    "activity1": "shopping center",
+      "activity2": "family"
    },
    {
     "id":14, 
@@ -114,7 +127,8 @@
     "location":"Dallas, Texas",
     "description": "From the moment you arrive at Galleria Dallas, you'll know you're in for an experience unlike any other. Our unequalled shopping environment includes a unique collection of boutiques, restaurants and other extravagant experiences.",
     "image": "https://media-cdn.tripadvisor.com/media/photo-w/11/e0/80/52/inside-the-mall.jpg",
-    "activities": "['family', 'restauant', 'shopping center', 'mall']"
+    "activity1": "shopping center",
+    "activity2": "family"
    },
    {
     "id":15, 
@@ -122,7 +136,8 @@
     "location":"Palo Duro Canyon, Texas",
     "description": "From the moment you arrive at Galleria Dallas, you'll know you're in for an experience unlike any other. Our unequalled shopping environment includes a unique collection of boutiques, restaurants and other extravagant experiences.",
     "image": "https://images.theoutbound.com/uploads/1430285804585/ezo1vf5xcso1dcxr/855a1bb7ce90930e330dba2121dacaa0?w=680&auto=format&dpr=2&auto=compress",
-    "activities": "['family', 'hiking', 'tour','landscape']"
+    "activity1": "landmark",
+    "activity2": "hiking"
    }
 
   ]
